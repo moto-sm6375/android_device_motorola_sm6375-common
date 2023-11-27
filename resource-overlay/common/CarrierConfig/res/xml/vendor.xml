@@ -1331,16 +1331,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="carrier_supports_multianchor_conference" value="true"/>
     </carrier_config>
 
-    <carrier_config mcc="440" mnc="00">
-        <boolean name="carrier_volte_available_bool" value="true" />
-        <boolean name="carrier_vt_available_bool" value="true" />
-    </carrier_config>
-
-    <carrier_config mcc="440" mnc="03">
-        <boolean name="carrier_volte_available_bool" value="true" />
-        <boolean name="carrier_vt_available_bool" value="true" />
-    </carrier_config>
-
     <carrier_config mcc="440" mnc="10">
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />

@@ -356,8 +356,7 @@ PRODUCT_PACKAGES += \
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
-    $(LOCAL_PATH) \
-    hardware/qcom-caf/sm8350/display
+    $(LOCAL_PATH)
 
 # Telephony
 PRODUCT_PACKAGES += \
